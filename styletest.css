@@ -1,0 +1,22 @@
+body {
+    background-color: #000000a4;
+    color: white;
+    font: 1em sans-serif;
+}
+div {
+    font-size: 18px;
+}
+
+h1 {
+   color: rgb(26, 177, 247); 
+}
+
+.line {
+    color: rgb(0, 0, 0);
+    background-color: black;
+    width: 100%;
+}
+.heading-2 {
+    color: yellow;
+
+}
